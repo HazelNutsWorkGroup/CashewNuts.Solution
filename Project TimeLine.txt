@@ -3,9 +3,9 @@
 
 2. Build Asp.Net Web Api Template, Base on MapHttpAttributeRoutes
 
-3. Build Asp.Net Web Api Template, Base on Token based authentication		<<------ Current Working For
+3. Build Asp.Net Web Api Template, Base on Token based authentication
 
-4. Build Asp.Net Web Api Template, Base on DotNetOpenAuth
+4. Build Asp.Net Web Api Template, Base on DotNetOpenAuth		<<------ Current Working For
 
 5. Build Asp.Net Web Api Template, Base on View Model Validate 
 
