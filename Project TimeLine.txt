@@ -1,0 +1,12 @@
+1. Build Asp.Net Web Api 2 Project, Base on MVC V5.2.3
+	Include: Newtonsoft.Json V7.0.0
+
+2. Build Asp.Net Web Api Template, Base on MapHttpAttributeRoutes
+
+3. Build Asp.Net Web Api Template, Base on Token based authentication		<<------ Current Working For
+
+4. Build Asp.Net Web Api Template, Base on DotNetOpenAuth
+
+5. Build Asp.Net Web Api Template, Base on View Model Validate 
+
+6. Build Asp.Net Web Api Template, Base on Single Page 

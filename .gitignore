@@ -1,3 +1,5 @@
 /packages
 /Component.Interface/CashewNuts.MVC/bin
 /Component.Interface/CashewNuts.MVC/obj
+/Component.External/Newtonsoft.Json/obj
+/Component.External/Newtonsoft.Json/bin
